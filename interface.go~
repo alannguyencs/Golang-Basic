@@ -1,7 +1,11 @@
 package main
-
+<<<<<<< HEAD
+//nine
 import "fmt"
-
+=======
+//eight
+import "fmt" 
+>>>>>>> 7900b26b1330c966507131ed941dcc7769222ff6
 
 type Human struct {
     name  string
