@@ -1,5 +1,5 @@
 package main
-//this is to check conflict
+
 import "fmt"
 
 type Human struct {
