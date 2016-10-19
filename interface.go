@@ -1,6 +1,6 @@
 package main
-
-import "fmt"
+//eight
+import "fmt" 
 
 type Human struct {
     name  string
