@@ -1,0 +1,4 @@
+skip:
+1. defer
+2. panic and recover
+3. 
