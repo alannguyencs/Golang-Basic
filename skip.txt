@@ -1,4 +1,6 @@
 skip:
 1. defer
 2. panic and recover
-3. 
+
+2.6 Interface  ------ Embedded interfaces; Reflection
+2.7 Concurrency --------- it's for parallel programming

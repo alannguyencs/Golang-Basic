@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK                     // status line
+Server: nginx/1.0.8                 // web server software and its version in the server machine
+Date:Date: Tue, 30 Oct 2012 04:14:25 GMT        // responded time
+Content-Type: text/html             // responded data type
+Transfer-Encoding: chunked          // it means data were sent in fragments
+Connection: keep-alive              // keep connection 
+Content-Length: 90                  // length of body
+// blank line
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"... // message body
